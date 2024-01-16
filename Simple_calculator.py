@@ -20,8 +20,8 @@ def Perkalian(k,l):
 def Pembagian(m,n):
     return m/n
     
-angka1 = int(input("masukan angka"))
-angka2 = int(input("masukan angka"))
+angka1 = int(input("masukan angka:"))
+angka2 = int(input("masukan angka:"))
 
 print("Jawaban Penjumlahannya adalah:", Penjumlahan (angka1,angka2))
 print("Jawaban Pengurangannya adalah:", Pengurangan (angka1,angka2))
